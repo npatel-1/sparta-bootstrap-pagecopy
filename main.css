@@ -1,0 +1,16 @@
+.img-class {
+    height: 600px;
+    width: 100%;
+}
+
+.colPic {
+    padding: 20px;
+    margin-top: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding: 5px;
+    margin: 5px;
+}
